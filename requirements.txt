@@ -2,3 +2,4 @@ aiogram
 tzlocal
 SQLAlchemy
 alembic
+apscheduler
