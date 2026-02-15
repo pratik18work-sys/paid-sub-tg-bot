@@ -3,3 +3,4 @@ tzlocal
 SQLAlchemy
 alembic
 apscheduler
+pydantic-settings
